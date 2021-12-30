@@ -1,10 +1,10 @@
-<img src="https://www.shutterstock.com/image-vector/programming-web-banner-best-languages-technology-1676060566">
+<img src="https://br.freepik.com/fotos-vetores-gratis/bandeira">
 
 ### Hi 👋
 I am recent web Developer and looking for opportunities and collaboration in projects.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+- 🔭 I’m currently working on web pages.
+- 🌱 I’m currently learning React, NodeJS, MongoDB.
+- 🤝 I’m looking to collaborate on wed development, fron and back projects. 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
 
