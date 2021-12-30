@@ -1,4 +1,4 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+<img src="https://www.shutterstock.com/image-vector/programming-web-banner-best-languages-technology-1676060566">
 
 ### Hi 👋
 I am recent web Developer and looking for opportunities and collaboration in projects.
